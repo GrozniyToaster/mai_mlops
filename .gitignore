@@ -1,0 +1,4 @@
+*.ipynb
+*.jpeg
+inference_pb2.py
+inference_pb2_grpc.py
